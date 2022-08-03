@@ -11,5 +11,9 @@
 ## Production
 > Currently in progress
 
-## OPENSrc
-Will be fully open source to the public for adjustments and tweaks through **PR'S**
+# Pull Requests & Install
+
+```npm i``` 
+
+```npm run start```
+
