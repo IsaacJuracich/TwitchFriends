@@ -2,7 +2,7 @@
  
 ## Revival of Twitch Friends
 Bringing back the feature with minimal tweaks, and more options.
-![Twitch](https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png=64x64)
+![Twitch](https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png)
 
 
 ## Compatibility
