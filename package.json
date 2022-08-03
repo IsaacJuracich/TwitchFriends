@@ -1,0 +1,29 @@
+{
+  "name": "express-mongo-graphql",
+  "version": "1.0.0",
+  "description": "Template for creating a GraphQL API with Express and MongoDB",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "next build",
+    "run": "node -r esm",
+    "start": "nodemon -r esm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "esm": "^3.2.25",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.5.0",
+    "next": "^12.2.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
