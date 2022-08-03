@@ -1,7 +1,7 @@
 # TwitchFriends
  
 ## Revival of Twitch Friends
-> Bringing back the feature a browser at a time
+> Bringing back the feature with minimal tweaks, and more options.
 
 
 ## Compatibility
@@ -10,3 +10,6 @@
 
 ## Production
 > Currently in progress
+
+## OPENSrc
+Will be fully open source to the public for adjustments and tweaks through **PR'S**
