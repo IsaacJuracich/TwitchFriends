@@ -5,7 +5,7 @@
 
 
 ## Compatibility
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1920px-Google_Chrome_icon_%28February_2022%29.svg.png?20220405180308)
 
 
 ## Production
